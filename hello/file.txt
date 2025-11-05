@@ -1,0 +1,1 @@
+Fatal error: Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' in /var/www/html/submit.php:2 Stack trace: #0 /var/www/html/submit.php(2): mysqli->__construct() #1 {main} thrown in /var/www/html/submit.php on line 2
